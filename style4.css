@@ -12,17 +12,17 @@ section{
   padding: 100px 200px;
 }
 
-/*.main{
+.main{
   position: relative;
   width: 100%;
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url('img.jpg')no-repeat;
+  background: url('Services.jpeg')no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-}*/
+}
 
 .main .content{
   max-width: 800px;

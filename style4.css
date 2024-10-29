@@ -12,7 +12,7 @@ section{
   padding: 100px 200px;
 }
 
-.main{
+/*.main{
   position: relative;
   width: 100%;
   min-height: 100vh;
@@ -22,7 +22,7 @@ section{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-}
+}*/
 
 .main .content{
   max-width: 800px;
@@ -76,7 +76,7 @@ section{
 }
 .main {
     display: flex;
-    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmICi9Fwhk2Tn2FITlPnXi8FJoB_rMeWxWg&usqp=CAU') no-repeat
+    background: url('Services.jpeg') no-repeat
       center;
     height: 100vh;
     color: #fff;
